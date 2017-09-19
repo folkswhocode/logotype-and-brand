@@ -8,7 +8,7 @@ Si vas a emplear el logotipo de **folkswhocode** te rogamos que le eches un vist
 
 # logotipo en diferentes formatos
 
-En la carpeta **[/logotype](https://github.com/folkswhocode/logotype-and-brand/tree/master/logotype)** dispones de todas las variantes del logotipos en los formatos de uso más habituales. Recuerda que **siempre que sea posible la versión preferida es la RGB** (la versión que puedes ver en el párrafo anterior).
+En la carpeta **[/logotype](https://github.com/folkswhocode/logotype-and-brand/tree/master/logotype)** dispones de todas las variantes del logotipo en los formatos de uso más habituales. Recuerda que **siempre que sea posible la versión preferida es la RGB** (la versión que puedes ver en el párrafo anterior).
 
 # tipografía
 
